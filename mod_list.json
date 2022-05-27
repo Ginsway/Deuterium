@@ -130,6 +130,11 @@
     "version": "1.6.2"
   },
   {
+    "modid": "lightoverlay",
+    "name": "Light Overlay",
+    "version": "6.0.5"
+  },
+  {
     "modid": "betterf3",
     "name": "BetterF3",
     "version": "1.2.5"
@@ -163,5 +168,10 @@
     "modid": "betterpingdisplay",
     "name": "Better Ping Display",
     "version": "1.1"
+  },
+  {
+    "modid": "betteradvancements",
+    "name": "Better Advancements",
+    "version": "0.2.0.129"
   }
 ]
