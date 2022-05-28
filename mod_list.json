@@ -10,6 +10,11 @@
     "version": "1.18.2_v1.3.1"
   },
   {
+    "modid": "radium",
+    "name": "Radium",
+    "version": "0.7.10"
+  },
+  {
     "modid": "roughlyenoughprofessions",
     "name": "Roughly Enough Professions",
     "version": "1.0.1"
@@ -40,6 +45,11 @@
     "version": "9.9999"
   },
   {
+    "modid": "betterfpsdist",
+    "name": "betterfpsdist mod",
+    "version": "1.18.2-1.5"
+  },
+  {
     "modid": "rubidium",
     "name": "Rubidium",
     "version": "0.5.2a"
@@ -55,14 +65,34 @@
     "version": "1.2.4"
   },
   {
+    "modid": "fastsuite",
+    "name": "Fast Suite",
+    "version": "3.0.2"
+  },
+  {
+    "modid": "clumps",
+    "name": "Clumps",
+    "version": "8.0.0+8"
+  },
+  {
     "modid": "xaeroworldmap",
     "name": "Xaero\u0027s World Map",
     "version": "1.22.0"
   },
   {
+    "modid": "fastbench",
+    "name": "Fast Workbench",
+    "version": "6.0.2"
+  },
+  {
     "modid": "controlling",
     "name": "Controlling",
     "version": "9.0+19"
+  },
+  {
+    "modid": "placebo",
+    "name": "Placebo",
+    "version": "6.4.0"
   },
   {
     "modid": "mcwifipnp",
@@ -95,6 +125,11 @@
     "version": "7.2.10+1742f98"
   },
   {
+    "modid": "fastfurnace",
+    "name": "FastFurnace",
+    "version": "6.0.3"
+  },
+  {
     "modid": "starlight",
     "name": "Starlight",
     "version": "1.0.2+forge.83663de"
@@ -123,6 +158,11 @@
     "modid": "ferritecore",
     "name": "Ferrite Core",
     "version": "0.0NONE"
+  },
+  {
+    "modid": "farsight_view",
+    "name": "Farsight mod",
+    "version": "1.18.2-1.8"
   },
   {
     "modid": "catalogue",
