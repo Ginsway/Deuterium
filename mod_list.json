@@ -15,9 +15,24 @@
     "version": "0.7.10"
   },
   {
+    "modid": "notenoughcrashes",
+    "name": "Not Enough Crashes",
+    "version": "4.1.4+1.18.2"
+  },
+  {
+    "modid": "enchdesc",
+    "name": "EnchantmentDescriptions",
+    "version": "10.0.3"
+  },
+  {
     "modid": "roughlyenoughprofessions",
     "name": "Roughly Enough Professions",
     "version": "1.0.1"
+  },
+  {
+    "modid": "mousetweaks",
+    "name": "Mouse Tweaks",
+    "version": "2.21"
   },
   {
     "modid": "forgeautofish",
@@ -120,6 +135,11 @@
     "version": "1802.3.3-build.55"
   },
   {
+    "modid": "bookshelf",
+    "name": "Bookshelf",
+    "version": "13.0.13"
+  },
+  {
     "modid": "worldedit",
     "name": "WorldEdit",
     "version": "7.2.10+1742f98"
@@ -158,6 +178,11 @@
     "modid": "ferritecore",
     "name": "Ferrite Core",
     "version": "0.0NONE"
+  },
+  {
+    "modid": "modernui",
+    "name": "Modern UI",
+    "version": "3.4.5.106"
   },
   {
     "modid": "farsight_view",
@@ -203,6 +228,11 @@
     "modid": "appleskin",
     "name": "AppleSkin",
     "version": "2.4.0+mc1.18"
+  },
+  {
+    "modid": "imblocker",
+    "name": "IMBlocker",
+    "version": "3.0"
   },
   {
     "modid": "betterpingdisplay",
