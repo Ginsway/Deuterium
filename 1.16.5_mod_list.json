@@ -1,13 +1,13 @@
 [
   {
-    "modid": "minecraft",
-    "name": "Minecraft",
-    "version": "1.16.5"
-  },
-  {
     "modid": "dynamiclightsreforged",
     "name": "Dynamic Lights Reforged",
     "version": "mc1.16.5_v1.0.1"
+  },
+  {
+    "modid": "notenoughcrashes",
+    "name": "Not Enough Crashes",
+    "version": "4.1.4+1.16.5"
   },
   {
     "modid": "betterf3forge",
@@ -20,29 +20,19 @@
     "version": "7.7.1.152"
   },
   {
-    "modid": "betterfpsdist",
-    "name": "betterfpsdist mod",
-    "version": "1.2"
-  },
-  {
-    "modid": "jeiintegration",
-    "name": "JEI Integration",
-    "version": "7.1.0.22"
-  },
-  {
     "modid": "rubidium",
     "name": "Rubidium",
     "version": "0.2.6"
   },
   {
-    "modid": "xaerominimap",
-    "name": "Xaero\u0027s Minimap",
-    "version": "22.9.0"
+    "modid": "fastsuite",
+    "name": "FastSuite",
+    "version": "1.1.1"
   },
   {
-    "modid": "oculus",
-    "name": "Oculus",
-    "version": "1.2.3-pre"
+    "modid": "clumps",
+    "name": "Clumps",
+    "version": "6.0.0.28"
   },
   {
     "modid": "xaeroworldmap",
@@ -55,6 +45,121 @@
     "version": "7.0.0.28"
   },
   {
+    "modid": "placebo",
+    "name": "Placebo",
+    "version": "4.7.0"
+  },
+  {
+    "modid": "i18nupdatemod",
+    "name": "I18n update Mod",
+    "version": "2.0.3"
+  },
+  {
+    "modid": "mcwifipnp",
+    "name": "LAN World Plug-n-Play",
+    "version": "1.5.4"
+  },
+  {
+    "modid": "configured",
+    "name": "Configured",
+    "version": "1.5.2"
+  },
+  {
+    "modid": "bookshelf",
+    "name": "Bookshelf",
+    "version": "10.4.32"
+  },
+  {
+    "modid": "randompatches",
+    "name": "RandomPatches",
+    "version": "2.4.4-forge"
+  },
+  {
+    "modid": "lazydfu",
+    "name": "LazyDFU",
+    "version": "0.1.3"
+  },
+  {
+    "modid": "starlight",
+    "name": "Starlight",
+    "version": "1.0.0-RC2"
+  },
+  {
+    "modid": "waila",
+    "name": "Waila",
+    "version": "1.10.11-B78_1.16.2"
+  },
+  {
+    "modid": "farsight_view",
+    "name": "Farsight mod",
+    "version": "1.7"
+  },
+  {
+    "modid": "catalogue",
+    "name": "Catalogue",
+    "version": "1.6.1"
+  },
+  {
+    "modid": "magnesium_extras",
+    "name": "Magnesium Extras",
+    "version": "mc1.16.5_v1.3.1"
+  },
+  {
+    "modid": "jeresources",
+    "name": "Just Enough Resources",
+    "version": "0.12.1.133"
+  },
+  {
+    "modid": "forge",
+    "name": "Forge",
+    "version": "36.2.35"
+  },
+  {
+    "modid": "betterpingdisplay",
+    "name": "Better Ping Display",
+    "version": "1.0"
+  },
+  {
+    "modid": "minecraft",
+    "name": "Minecraft",
+    "version": "1.16.5"
+  },
+  {
+    "modid": "enchdesc",
+    "name": "EnchantmentDescriptions",
+    "version": "7.0.19"
+  },
+  {
+    "modid": "smoothboot",
+    "name": "Smooth Boot",
+    "version": "1.16.4-1.2.2"
+  },
+  {
+    "modid": "betterfpsdist",
+    "name": "betterfpsdist mod",
+    "version": "1.2"
+  },
+  {
+    "modid": "jeiintegration",
+    "name": "JEI Integration",
+    "version": "7.1.0.22"
+  },
+  {
+    "modid": "xaerominimap",
+    "name": "Xaero\u0027s Minimap",
+    "version": "22.9.0"
+  },
+  {
+    "modid": "oculus",
+    "name": "Oculus",
+    "version": "1.2.3-pre"
+  },
+  {
+    "modid": "fastbench",
+    "name": "Fast Workbench",
+    "version": "4.6.1"
+  },
+  {
     "modid": "kryptonreforged",
     "name": "Krypton Reforged",
     "version": "mc1.16.5_v1.0.0"
@@ -63,16 +168,6 @@
     "modid": "justenoughprofessions",
     "name": "Just Enough Professions (JEP)",
     "version": "1.2.2"
-  },
-  {
-    "modid": "i18nupdatemod",
-    "name": "I18n update Mod",
-    "version": "2.0.3"
-  },
-  {
-    "modid": "configured",
-    "name": "Configured",
-    "version": "1.5.2"
   },
   {
     "modid": "jecharacters",
@@ -105,14 +200,9 @@
     "version": "7.2.5+57d5ac9"
   },
   {
-    "modid": "lazydfu",
-    "name": "LazyDFU",
-    "version": "0.1.3"
-  },
-  {
-    "modid": "starlight",
-    "name": "Starlight",
-    "version": "1.0.0-RC2"
+    "modid": "fastfurnace",
+    "name": "FastFurnace",
+    "version": "4.5.0"
   },
   {
     "modid": "inventoryprofilesnext",
@@ -130,24 +220,24 @@
     "version": "1605.3.4-build.90"
   },
   {
+    "modid": "appleskin",
+    "name": "AppleSkin",
+    "version": "2.4.0+mc1.16.4"
+  },
+  {
     "modid": "ferritecore",
     "name": "Ferrite Core",
     "version": "2.1.0"
   },
   {
-    "modid": "waila",
-    "name": "Waila",
-    "version": "1.10.11-B78_1.16.2"
+    "modid": "modernui",
+    "name": "Modern UI",
+    "version": "2.7.1.105"
   },
   {
-    "modid": "farsight_view",
-    "name": "Farsight mod",
-    "version": "1.7"
-  },
-  {
-    "modid": "catalogue",
-    "name": "Catalogue",
-    "version": "1.6.1"
+    "modid": "lightoverlay",
+    "name": "Light Overlay",
+    "version": "5.8.1"
   },
   {
     "modid": "cloth-config",
@@ -155,28 +245,13 @@
     "version": "4.14.64"
   },
   {
-    "modid": "magnesium_extras",
-    "name": "Magnesium Extras",
-    "version": "mc1.16.5_v1.3.1"
-  },
-  {
-    "modid": "jeresources",
-    "name": "Just Enough Resources",
-    "version": "0.12.1.133"
-  },
-  {
-    "modid": "forge",
-    "name": "Forge",
-    "version": "36.2.35"
-  },
-  {
-    "modid": "appleskin",
-    "name": "AppleSkin",
-    "version": "2.4.0+mc1.16.4"
-  },
-  {
     "modid": "wailaharvestability",
     "name": "Waila Harvestability",
     "version": "1.1.15"
+  },
+  {
+    "modid": "betteradvancements",
+    "name": "Better Advancements",
+    "version": "0.1.1.115"
   }
 ]
