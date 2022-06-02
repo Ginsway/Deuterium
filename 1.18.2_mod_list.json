@@ -1,10 +1,5 @@
 [
   {
-    "modid": "minecraft",
-    "name": "Minecraft",
-    "version": "1.18.2"
-  },
-  {
     "modid": "dynamiclightsreforged",
     "name": "Rubidium Dynamic Lights",
     "version": "1.18.2_v1.3.1"
@@ -20,24 +15,119 @@
     "version": "4.1.4+1.18.2"
   },
   {
-    "modid": "enchdesc",
-    "name": "EnchantmentDescriptions",
-    "version": "10.0.3"
-  },
-  {
     "modid": "roughlyenoughprofessions",
     "name": "Roughly Enough Professions",
     "version": "1.0.1"
   },
   {
-    "modid": "mousetweaks",
-    "name": "Mouse Tweaks",
-    "version": "2.21"
-  },
-  {
     "modid": "forgeautofish",
     "name": "AutoFish for Forge",
     "version": "4.0.3"
+  },
+  {
+    "modid": "customskinloader",
+    "name": "CustomSkinLoader",
+    "version": "14.14-SNAPSHOT-323"
+  },
+  {
+    "modid": "rubidium",
+    "name": "Rubidium",
+    "version": "0.5.2a"
+  },
+  {
+    "modid": "fastsuite",
+    "name": "Fast Suite",
+    "version": "3.0.2"
+  },
+  {
+    "modid": "clumps",
+    "name": "Clumps",
+    "version": "8.0.0+8"
+  },
+  {
+    "modid": "xaeroworldmap",
+    "name": "Xaero\u0027s World Map",
+    "version": "1.22.0"
+  },
+  {
+    "modid": "controlling",
+    "name": "Controlling",
+    "version": "9.0+19"
+  },
+  {
+    "modid": "placebo",
+    "name": "Placebo",
+    "version": "6.4.0"
+  },
+  {
+    "modid": "mcwifipnp",
+    "name": "LAN World Plug-n-Play",
+    "version": "1.5.4"
+  },
+  {
+    "modid": "configured",
+    "name": "Configured",
+    "version": "1.5.3"
+  },
+  {
+    "modid": "bookshelf",
+    "name": "Bookshelf",
+    "version": "13.0.13"
+  },
+  {
+    "modid": "lazydfu",
+    "name": "LazyDFU",
+    "version": "0.1.3"
+  },
+  {
+    "modid": "starlight",
+    "name": "Starlight",
+    "version": "1.0.2+forge.83663de"
+  },
+  {
+    "modid": "farsight_view",
+    "name": "Farsight mod",
+    "version": "1.18.2-1.8"
+  },
+  {
+    "modid": "catalogue",
+    "name": "Catalogue",
+    "version": "1.6.2"
+  },
+  {
+    "modid": "rubidium_extras",
+    "name": "Rubidium Extras",
+    "version": "1.18.2_v1.3.1"
+  },
+  {
+    "modid": "cloth_config",
+    "name": "Cloth Config v4 API",
+    "version": "6.2.57"
+  },
+  {
+    "modid": "forge",
+    "name": "Forge",
+    "version": "40.1.25"
+  },
+  {
+    "modid": "betterpingdisplay",
+    "name": "Better Ping Display",
+    "version": "1.1"
+  },
+  {
+    "modid": "minecraft",
+    "name": "Minecraft",
+    "version": "1.18.2"
+  },
+  {
+    "modid": "enchdesc",
+    "name": "EnchantmentDescriptions",
+    "version": "10.0.3"
+  },
+  {
+    "modid": "mousetweaks",
+    "name": "Mouse Tweaks",
+    "version": "2.21"
   },
   {
     "modid": "jade",
@@ -65,11 +155,6 @@
     "version": "1.18.2-1.5"
   },
   {
-    "modid": "rubidium",
-    "name": "Rubidium",
-    "version": "0.5.2a"
-  },
-  {
     "modid": "xaerominimap",
     "name": "Xaero\u0027s Minimap",
     "version": "22.8.2"
@@ -80,44 +165,9 @@
     "version": "1.2.4"
   },
   {
-    "modid": "fastsuite",
-    "name": "Fast Suite",
-    "version": "3.0.2"
-  },
-  {
-    "modid": "clumps",
-    "name": "Clumps",
-    "version": "8.0.0+8"
-  },
-  {
-    "modid": "xaeroworldmap",
-    "name": "Xaero\u0027s World Map",
-    "version": "1.22.0"
-  },
-  {
     "modid": "fastbench",
     "name": "Fast Workbench",
     "version": "6.0.2"
-  },
-  {
-    "modid": "controlling",
-    "name": "Controlling",
-    "version": "9.0+19"
-  },
-  {
-    "modid": "placebo",
-    "name": "Placebo",
-    "version": "6.4.0"
-  },
-  {
-    "modid": "mcwifipnp",
-    "name": "LAN World Plug-n-Play",
-    "version": "1.5.4"
-  },
-  {
-    "modid": "configured",
-    "name": "Configured",
-    "version": "1.5.3"
   },
   {
     "modid": "entityculling",
@@ -135,29 +185,14 @@
     "version": "1802.3.3-build.55"
   },
   {
-    "modid": "bookshelf",
-    "name": "Bookshelf",
-    "version": "13.0.13"
-  },
-  {
     "modid": "worldedit",
     "name": "WorldEdit",
     "version": "7.2.10+1742f98"
   },
   {
-    "modid": "lazydfu",
-    "name": "LazyDFU",
-    "version": "0.1.3"
-  },
-  {
     "modid": "fastfurnace",
     "name": "FastFurnace",
     "version": "6.0.3"
-  },
-  {
-    "modid": "starlight",
-    "name": "Starlight",
-    "version": "1.0.2+forge.83663de"
   },
   {
     "modid": "inventoryprofilesnext",
@@ -180,6 +215,11 @@
     "version": "2.5.1"
   },
   {
+    "modid": "appleskin",
+    "name": "AppleSkin",
+    "version": "2.4.0+mc1.18"
+  },
+  {
     "modid": "ferritecore",
     "name": "Ferrite Core",
     "version": "0.0NONE"
@@ -188,16 +228,6 @@
     "modid": "modernui",
     "name": "Modern UI",
     "version": "3.4.5.106"
-  },
-  {
-    "modid": "farsight_view",
-    "name": "Farsight mod",
-    "version": "1.18.2-1.8"
-  },
-  {
-    "modid": "catalogue",
-    "name": "Catalogue",
-    "version": "1.6.2"
   },
   {
     "modid": "lightoverlay",
@@ -215,34 +245,9 @@
     "version": "2.0.0"
   },
   {
-    "modid": "rubidium_extras",
-    "name": "Rubidium Extras",
-    "version": "1.18.2_v1.3.1"
-  },
-  {
-    "modid": "cloth_config",
-    "name": "Cloth Config v4 API",
-    "version": "6.2.57"
-  },
-  {
-    "modid": "forge",
-    "name": "Forge",
-    "version": "40.1.25"
-  },
-  {
-    "modid": "appleskin",
-    "name": "AppleSkin",
-    "version": "2.4.0+mc1.18"
-  },
-  {
     "modid": "imblocker",
     "name": "IMBlocker",
     "version": "3.0"
-  },
-  {
-    "modid": "betterpingdisplay",
-    "name": "Better Ping Display",
-    "version": "1.1"
   },
   {
     "modid": "betteradvancements",
