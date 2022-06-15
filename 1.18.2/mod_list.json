@@ -47,7 +47,7 @@
   {
     "modid": "xaeroworldmap",
     "name": "Xaero\u0027s World Map",
-    "version": "1.22.0"
+    "version": "1.23.2"
   },
   {
     "modid": "controlling",
@@ -58,6 +58,11 @@
     "modid": "placebo",
     "name": "Placebo",
     "version": "6.4.0"
+  },
+  {
+    "modid": "i18nupdatemod",
+    "name": "I18n update Mod",
+    "version": "3.0.1"
   },
   {
     "modid": "mcwifipnp",
@@ -72,7 +77,7 @@
   {
     "modid": "bookshelf",
     "name": "Bookshelf",
-    "version": "13.2.20"
+    "version": "13.2.21"
   },
   {
     "modid": "lazydfu",
@@ -112,7 +117,7 @@
   {
     "modid": "forge",
     "name": "Forge",
-    "version": "40.1.48"
+    "version": "40.1.51"
   },
   {
     "modid": "betterpingdisplay",
@@ -167,7 +172,7 @@
   {
     "modid": "xaerominimap",
     "name": "Xaero\u0027s Minimap",
-    "version": "22.8.2"
+    "version": "22.9.2"
   },
   {
     "modid": "oculus",
@@ -207,7 +212,7 @@
   {
     "modid": "inventoryprofilesnext",
     "name": "Inventory Profiles Next",
-    "version": "1.4.0"
+    "version": "1.5.2"
   },
   {
     "modid": "architectury",
@@ -242,7 +247,7 @@
   {
     "modid": "modernui",
     "name": "Modern UI",
-    "version": "3.4.5.106"
+    "version": "3.4.6.107"
   },
   {
     "modid": "lightoverlay",
