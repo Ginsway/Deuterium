@@ -1,0 +1,137 @@
+[
+  {
+    "modid": "minecraft",
+    "name": "Minecraft",
+    "version": "1.18.1"
+  },
+  {
+    "modid": "forgeautofish",
+    "name": "AutoFish for Forge",
+    "version": "4.1.0"
+  },
+  {
+    "modid": "jade",
+    "name": "Jade",
+    "version": "4.4.1"
+  },
+  {
+    "modid": "waila",
+    "name": "Waila (Jade)",
+    "version": "4.4.1"
+  },
+  {
+    "modid": "jei",
+    "name": "Just Enough Items",
+    "version": "9.4.1.172"
+  },
+  {
+    "modid": "betterfpsdist",
+    "name": "betterfpsdist mod",
+    "version": "1.18.2-1.5"
+  },
+  {
+    "modid": "rubidium",
+    "name": "Rubidium",
+    "version": "0.5.0"
+  },
+  {
+    "modid": "oculus",
+    "name": "Oculus",
+    "version": "1.2.1"
+  },
+  {
+    "modid": "controlling",
+    "name": "Controlling",
+    "version": "9.0+15"
+  },
+  {
+    "modid": "i18nupdatemod",
+    "name": "I18n update Mod",
+    "version": "3.0.0"
+  },
+  {
+    "modid": "mcwifipnp",
+    "name": "LAN World Plug-n-Play",
+    "version": "1.5.6"
+  },
+  {
+    "modid": "configured",
+    "name": "Configured",
+    "version": "1.5.3"
+  },
+  {
+    "modid": "jecharacters",
+    "name": "Just Enough Characters",
+    "version": "1.18.1-4.3.3"
+  },
+  {
+    "modid": "inventoryhud",
+    "name": "Inventory HUD+(Forge edition)",
+    "version": "3.4.4"
+  },
+  {
+    "modid": "ftbultimine",
+    "name": "FTB Ultimine",
+    "version": "1801.3.2-build.52"
+  },
+  {
+    "modid": "worldeditcuife3",
+    "name": "WorldEdit CUI 3 Forge Edition",
+    "version": "3.1.0"
+  },
+  {
+    "modid": "worldedit",
+    "name": "WorldEdit",
+    "version": "7.2.9+e20e013"
+  },
+  {
+    "modid": "inventoryprofilesnext",
+    "name": "Inventory Profiles Next",
+    "version": "1.5.2"
+  },
+  {
+    "modid": "architectury",
+    "name": "Architectury",
+    "version": "3.9.66"
+  },
+  {
+    "modid": "ftblibrary",
+    "name": "FTB Library",
+    "version": "1801.3.5-build.109"
+  },
+  {
+    "modid": "catalogue",
+    "name": "Catalogue",
+    "version": "1.6.2"
+  },
+  {
+    "modid": "betterf3",
+    "name": "BetterF3",
+    "version": "1.2.2"
+  },
+  {
+    "modid": "jadeaddons",
+    "name": "Jade Addons",
+    "version": "1.0.1"
+  },
+  {
+    "modid": "cloth_config",
+    "name": "Cloth Config v4 API",
+    "version": "6.2.62"
+  },
+  {
+    "modid": "forge",
+    "name": "Forge",
+    "version": "39.1.2"
+  },
+  {
+    "modid": "appleskin",
+    "name": "AppleSkin",
+    "version": "2.4.0+mc1.18"
+  },
+  {
+    "modid": "betterpingdisplay",
+    "name": "Better Ping Display",
+    "version": "1.1"
+  }
+]
