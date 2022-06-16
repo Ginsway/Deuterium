@@ -1,8 +1,13 @@
 [
   {
-    "modid": "minecraft",
-    "name": "Minecraft",
-    "version": "1.18.1"
+    "modid": "radium",
+    "name": "Radium",
+    "version": "0.7.7g"
+  },
+  {
+    "modid": "notenoughcrashes",
+    "name": "Not Enough Crashes",
+    "version": "4.1.4+1.18.1"
   },
   {
     "modid": "forgeautofish",
@@ -10,14 +15,9 @@
     "version": "4.1.0"
   },
   {
-    "modid": "jade",
-    "name": "Jade",
-    "version": "4.4.1"
-  },
-  {
-    "modid": "waila",
-    "name": "Waila (Jade)",
-    "version": "4.4.1"
+    "modid": "jea",
+    "name": "Just Enough Advancements",
+    "version": "1.18.1-3.1.0"
   },
   {
     "modid": "jei",
@@ -25,24 +25,39 @@
     "version": "9.4.1.172"
   },
   {
-    "modid": "betterfpsdist",
-    "name": "betterfpsdist mod",
-    "version": "1.18.2-1.5"
-  },
-  {
     "modid": "rubidium",
     "name": "Rubidium",
     "version": "0.5.0"
   },
   {
-    "modid": "oculus",
-    "name": "Oculus",
-    "version": "1.2.1"
+    "modid": "fastsuite",
+    "name": "Fast Suite",
+    "version": "3.0.0"
+  },
+  {
+    "modid": "clumps",
+    "name": "Clumps",
+    "version": "8.0.0+5"
+  },
+  {
+    "modid": "xaeroworldmap",
+    "name": "Xaero\u0027s World Map",
+    "version": "1.20.3.1"
+  },
+  {
+    "modid": "shutupexperimentalsettings",
+    "name": "Shutup Experimental Settings!",
+    "version": "1.0.4"
   },
   {
     "modid": "controlling",
     "name": "Controlling",
     "version": "9.0+15"
+  },
+  {
+    "modid": "placebo",
+    "name": "Placebo",
+    "version": "6.1.1"
   },
   {
     "modid": "i18nupdatemod",
@@ -58,6 +73,121 @@
     "modid": "configured",
     "name": "Configured",
     "version": "1.5.3"
+  },
+  {
+    "modid": "libx",
+    "name": "LibX",
+    "version": "1.18.1-3.1.18"
+  },
+  {
+    "modid": "bookshelf",
+    "name": "Bookshelf",
+    "version": "12.0.23"
+  },
+  {
+    "modid": "lazydfu",
+    "name": "LazyDFU",
+    "version": "0.1.3"
+  },
+  {
+    "modid": "starlight",
+    "name": "Starlight",
+    "version": "1.0.0+forge.b1f6a10"
+  },
+  {
+    "modid": "jeed",
+    "name": "Just Enough Effect Descriptions",
+    "version": "1.18.1-1.8"
+  },
+  {
+    "modid": "farsight_view",
+    "name": "Farsight mod",
+    "version": "1.18.2-1.9"
+  },
+  {
+    "modid": "catalogue",
+    "name": "Catalogue",
+    "version": "1.6.2"
+  },
+  {
+    "modid": "jeresources",
+    "name": "Just Enough Resources",
+    "version": "0.14.0.157"
+  },
+  {
+    "modid": "chat_heads",
+    "name": "Chat Heads",
+    "version": "0.6.0"
+  },
+  {
+    "modid": "cloth_config",
+    "name": "Cloth Config v4 API",
+    "version": "6.2.62"
+  },
+  {
+    "modid": "betterpingdisplay",
+    "name": "Better Ping Display",
+    "version": "1.1"
+  },
+  {
+    "modid": "minecraft",
+    "name": "Minecraft",
+    "version": "1.18.1"
+  },
+  {
+    "modid": "mousetweaks",
+    "name": "Mouse Tweaks",
+    "version": "2.21"
+  },
+  {
+    "modid": "jade",
+    "name": "Jade",
+    "version": "4.4.1"
+  },
+  {
+    "modid": "waila",
+    "name": "Waila (Jade)",
+    "version": "4.4.1"
+  },
+  {
+    "modid": "forge",
+    "name": "Forge",
+    "version": "39.1.2"
+  },
+  {
+    "modid": "jerintegration",
+    "name": "JER Integration",
+    "version": "2.3.0-experimental"
+  },
+  {
+    "modid": "betterfpsdist",
+    "name": "betterfpsdist mod",
+    "version": "1.18.2-1.5"
+  },
+  {
+    "modid": "notenoughanimations",
+    "name": "NotEnoughAnimations Mod",
+    "version": "1.6.0"
+  },
+  {
+    "modid": "xaerominimap",
+    "name": "Xaero\u0027s Minimap",
+    "version": "22.3.0"
+  },
+  {
+    "modid": "oculus",
+    "name": "Oculus",
+    "version": "1.2.1"
+  },
+  {
+    "modid": "fastbench",
+    "name": "Fast Workbench",
+    "version": "6.0.1"
+  },
+  {
+    "modid": "justenoughprofessions",
+    "name": "Just Enough Professions (JEP)",
+    "version": "1.2.2"
   },
   {
     "modid": "jecharacters",
@@ -85,6 +215,11 @@
     "version": "7.2.9+e20e013"
   },
   {
+    "modid": "fastfurnace",
+    "name": "FastFurnace",
+    "version": "6.0.2"
+  },
+  {
     "modid": "inventoryprofilesnext",
     "name": "Inventory Profiles Next",
     "version": "1.5.2"
@@ -100,9 +235,29 @@
     "version": "1801.3.5-build.109"
   },
   {
-    "modid": "catalogue",
-    "name": "Catalogue",
-    "version": "1.6.2"
+    "modid": "appleskin",
+    "name": "AppleSkin",
+    "version": "2.4.0+mc1.18"
+  },
+  {
+    "modid": "ferritecore",
+    "name": "Ferrite Core",
+    "version": "4.1.2"
+  },
+  {
+    "modid": "cherishedworlds",
+    "name": "Cherished Worlds",
+    "version": "1.18-5.1.1.0"
+  },
+  {
+    "modid": "modernui",
+    "name": "Modern UI",
+    "version": "3.4.6.107"
+  },
+  {
+    "modid": "lightoverlay",
+    "name": "Light Overlay",
+    "version": "6.0.4"
   },
   {
     "modid": "betterf3",
@@ -115,23 +270,18 @@
     "version": "1.0.1"
   },
   {
-    "modid": "cloth_config",
-    "name": "Cloth Config v4 API",
-    "version": "6.2.62"
+    "modid": "krypton",
+    "name": "Krypton Reforged",
+    "version": "1.0.0"
   },
   {
-    "modid": "forge",
-    "name": "Forge",
-    "version": "39.1.2"
+    "modid": "gamemenumodoption",
+    "name": "Game Menu Mod Option",
+    "version": "1.14"
   },
   {
-    "modid": "appleskin",
-    "name": "AppleSkin",
-    "version": "2.4.0+mc1.18"
-  },
-  {
-    "modid": "betterpingdisplay",
-    "name": "Better Ping Display",
-    "version": "1.1"
+    "modid": "wwta",
+    "name": "When Was That Again",
+    "version": "1.18-1.0"
   }
 ]
