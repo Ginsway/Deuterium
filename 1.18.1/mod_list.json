@@ -135,6 +135,11 @@
     "version": "1.18.1"
   },
   {
+    "modid": "enchdesc",
+    "name": "EnchantmentDescriptions",
+    "version": "9.0.13"
+  },
+  {
     "modid": "mousetweaks",
     "name": "Mouse Tweaks",
     "version": "2.21"
@@ -193,6 +198,11 @@
     "modid": "jecharacters",
     "name": "Just Enough Characters",
     "version": "1.18.1-4.3.3"
+  },
+  {
+    "modid": "entityculling",
+    "name": "EntityCulling",
+    "version": "1.5.1"
   },
   {
     "modid": "inventoryhud",
