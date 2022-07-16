@@ -11,4 +11,5 @@ So I made this integration package, hoping to help players like me.
 3. 对主流模组较好的兼容性。 高清修复除外
 4. 负责任的作者。
 
-QQ群：748913947
+QQ群：748913947      
+Join our Discord
