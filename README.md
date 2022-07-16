@@ -12,4 +12,4 @@ So I made this integration package, hoping to help players like me.
 4. 负责任的作者。
 
 QQ群：748913947      
-Join our Discord
+Join our [Discord](https://discord.gg/8FpaQtDZ8Y)
