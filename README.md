@@ -1,4 +1,5 @@
 # 氘-Deuterium
+![GitHub all releases](https://img.shields.io/github/downloads/Ginsway/Deuterium/total)
 ## 简介
 作为一名MC爱好者，在更新一次版本都要重新选择一遍模组。  
 As an MC enthusiast, you have to re select the module once you update the version.     
