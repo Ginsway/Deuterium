@@ -6,6 +6,7 @@
 ## 简介-Intro
 作为一名MC爱好者，在更新一次版本都要重新选择一遍模组。  
 As an MC enthusiast, I have to re-select the mods once updating my Minecraft version. This is quite troublesome.
+
 所以，我做了这个整合包，希望能帮助到和我一样的玩家。    
 So I made this modpack, hoping to help players like me.
 
