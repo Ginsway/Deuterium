@@ -10,13 +10,13 @@ As an MC enthusiast, I have to re-select the mods once updating my Minecraft ver
 So I made this modpack, hoping to help players like me.
 
 ## 特点-Features
--拥有经过调控的优化。
--Adjusted Optimization.
--不重复的键位与不重叠的 UI。
--Non-repetitive keys and non-overlapping UI.
--对主流模组较好的兼容性。 （高清修复除外）
--Compatibility with most mods of popularity. (except OptiFine)
--负责任的作者。
+- 拥有经过调控的优化。
+- Adjusted Optimization.
+- 不重复的键位与不重叠的 UI。
+- Non-repetitive keys and non-overlapping UI.
+- 对主流模组较好的兼容性。 （高清修复除外）
+- Compatibility with most mods of popularity. (except OptiFine)
+- 负责任的作者。
 - Responsible author.
 
 
