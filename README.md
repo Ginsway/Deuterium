@@ -4,7 +4,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Ginsway/Deuterium)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Ginsway/Deuterium?include_prereleases)
 
-[中文|English]
+\[[English](https://github.com/Ginsway/Deuterium/blob/main/docs/README.EN.MD)\]
 
 自从1.16之后，MC的优化变得非常差，于是各种优化包如雨后春笋般冒了出来。
 
@@ -19,4 +19,5 @@
 轻量、兼容性好、即装即用。
 
 QQ群：748913947      
+
 Join our [Discord](https://discord.gg/8FpaQtDZ8Y)
