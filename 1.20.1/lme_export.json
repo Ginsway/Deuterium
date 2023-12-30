@@ -1,0 +1,252 @@
+[
+  {
+    "modid": "notenoughcrashes",
+    "name": "Not Enough Crashes",
+    "version": "4.4.4+1.20.1"
+  },
+  {
+    "modid": "bettertitlescreen",
+    "name": "Better Title Screen",
+    "version": "1.13.2"
+  },
+  {
+    "modid": "xaeroworldmap",
+    "name": "Xaero\u0027s World Map",
+    "version": "1.37.2"
+  },
+  {
+    "modid": "controlling",
+    "name": "Controlling",
+    "version": "12.0.2"
+  },
+  {
+    "modid": "modernfix",
+    "name": "ModernFix",
+    "version": "5.11.1+mc1.20.1"
+  },
+  {
+    "modid": "jei",
+    "name": "Just Enough Items",
+    "version": "15.2.0.27"
+  },
+  {
+    "modid": "mcwifipnp",
+    "name": "LAN World Plug-n-Play",
+    "version": "1.6.6"
+  },
+  {
+    "modid": "mixinextras",
+    "name": "MixinExtras",
+    "version": "0.2.0"
+  },
+  {
+    "modid": "starlight",
+    "name": "Starlight",
+    "version": "1.1.2+forge.1cda73c"
+  },
+  {
+    "modid": "catalogue",
+    "name": "Catalogue",
+    "version": "1.8.0"
+  },
+  {
+    "modid": "fpsreducer",
+    "name": "FPS Reducer",
+    "version": "1.20-2.5"
+  },
+  {
+    "modid": "jeresources",
+    "name": "Just Enough Resources",
+    "version": "1.4.0.238"
+  },
+  {
+    "modid": "chat_heads",
+    "name": "Chat Heads",
+    "version": "0.10.18"
+  },
+  {
+    "modid": "cloth_config",
+    "name": "Cloth Config v10 API",
+    "version": "11.1.106"
+  },
+  {
+    "modid": "forge",
+    "name": "Forge",
+    "version": "47.2.19"
+  },
+  {
+    "modid": "embeddium",
+    "name": "Embeddium",
+    "version": "0.2.16+mc1.20.1"
+  },
+  {
+    "modid": "rubidium",
+    "name": "Rubidium (Embeddium)",
+    "version": "0.7.1"
+  },
+  {
+    "modid": "embeddiumplus",
+    "name": "Embeddium++",
+    "version": "1.1.0"
+  },
+  {
+    "modid": "minecraft",
+    "name": "Minecraft",
+    "version": "1.20.1"
+  },
+  {
+    "modid": "libipn",
+    "name": "libIPN",
+    "version": "3.0.2"
+  },
+  {
+    "modid": "mousetweaks",
+    "name": "Mouse Tweaks",
+    "version": "2.25"
+  },
+  {
+    "modid": "forgeconfigscreens",
+    "name": "Forge Config Screens",
+    "version": "8.0.2"
+  },
+  {
+    "modid": "nochatreports",
+    "name": "No Chat Reports",
+    "version": "1.20.1-v2.2.2"
+  },
+  {
+    "modid": "jade",
+    "name": "Jade",
+    "version": "11.7.1"
+  },
+  {
+    "modid": "justenoughbreeding",
+    "name": "Just Enough Breeding",
+    "version": "1.0.12"
+  },
+  {
+    "modid": "kotlinforforge",
+    "name": "Kotlin For Forge",
+    "version": "4.4.0"
+  },
+  {
+    "modid": "notenoughanimations",
+    "name": "NotEnoughAnimations Mod",
+    "version": "1.6.4"
+  },
+  {
+    "modid": "iceberg",
+    "name": "Iceberg",
+    "version": "1.1.18"
+  },
+  {
+    "modid": "flywheel",
+    "name": "Flywheel",
+    "version": "0.6.10-8"
+  },
+  {
+    "modid": "xaerominimap",
+    "name": "Xaero\u0027s Minimap",
+    "version": "23.9.3"
+  },
+  {
+    "modid": "oculus",
+    "name": "Oculus",
+    "version": "1.6.13"
+  },
+  {
+    "modid": "searchables",
+    "name": "Searchables",
+    "version": "1.0.2"
+  },
+  {
+    "modid": "justenoughprofessions",
+    "name": "Just Enough Professions (JEP)",
+    "version": "3.0.1"
+  },
+  {
+    "modid": "jecharacters",
+    "name": "Just Enough Characters",
+    "version": "4.5.4"
+  },
+  {
+    "modid": "entityculling",
+    "name": "EntityCulling",
+    "version": "1.6.2"
+  },
+  {
+    "modid": "canary",
+    "name": "Canary",
+    "version": "0.2.10"
+  },
+  {
+    "modid": "inventoryhud",
+    "name": "Inventory HUD+(Forge edition)",
+    "version": "3.4.18"
+  },
+  {
+    "modid": "architectury",
+    "name": "Architectury",
+    "version": "9.1.10"
+  },
+  {
+    "modid": "appleskin",
+    "name": "AppleSkin",
+    "version": "2.5.1+mc1.20.1"
+  },
+  {
+    "modid": "ferritecore",
+    "name": "Ferrite Core",
+    "version": "6.0.0"
+  },
+  {
+    "modid": "cherishedworlds",
+    "name": "Cherished Worlds",
+    "version": "6.1.4+1.20.1"
+  },
+  {
+    "modid": "lightoverlay",
+    "name": "Light Overlay",
+    "version": "8.0.0"
+  },
+  {
+    "modid": "betterf3",
+    "name": "BetterF3",
+    "version": "7.0.2"
+  },
+  {
+    "modid": "rubidium_extra",
+    "name": "Rubidium/Embeddium Extra",
+    "version": "0.5.3.1+mc1.20.1-build.110"
+  },
+  {
+    "modid": "jadeaddons",
+    "name": "Jade Addons",
+    "version": "5.2.2"
+  },
+  {
+    "modid": "textrues_embeddium_options",
+    "name": "TexTrue\u0027s Embeddium Options",
+    "version": "0.1.3+mc1.20.1"
+  },
+  {
+    "modid": "reeses_sodium_options",
+    "name": "TexTrue\u0027s Rubidium Options (TexTrue\u0027s Embeddium Options)",
+    "version": "1.0.4"
+  },
+  {
+    "modid": "quit",
+    "name": "Quit",
+    "version": "1.1.0"
+  },
+  {
+    "modid": "deuf",
+    "name": "DEUF - Duplicate Entity UUID Fix",
+    "version": "1.20.1-1.3"
+  },
+  {
+    "modid": "betteradvancements",
+    "name": "Better Advancements",
+    "version": "0.3.2.162"
+  }
+]
