@@ -1,8 +1,23 @@
 [
   {
+    "modid": "moremcmeta_emissive_plugin",
+    "name": "MoreMcmeta Emissive Textures Plugin",
+    "version": "1.20.1-2.0.4"
+  },
+  {
     "modid": "notenoughcrashes",
     "name": "Not Enough Crashes",
     "version": "4.4.4+1.20.1"
+  },
+  {
+    "modid": "moremcmeta",
+    "name": "MoreMcmeta",
+    "version": "1.20.1-4.4.5"
+  },
+  {
+    "modid": "moremcmeta_texture_plugin",
+    "name": "MoreMcmeta Texture Plugin",
+    "version": "1.20.1-1.0.0"
   },
   {
     "modid": "bettertitlescreen",
@@ -95,9 +110,19 @@
     "version": "1.20.1"
   },
   {
+    "modid": "entity_model_features",
+    "name": "Entity Model Features",
+    "version": "1.2.1"
+  },
+  {
+    "modid": "entity_texture_features",
+    "name": "Entity Texture Features",
+    "version": "5.1"
+  },
+  {
     "modid": "libipn",
     "name": "libIPN",
-    "version": "3.0.2"
+    "version": "4.0.1"
   },
   {
     "modid": "mousetweaks",
@@ -108,6 +133,11 @@
     "modid": "forgeconfigscreens",
     "name": "Forge Config Screens",
     "version": "8.0.2"
+  },
+  {
+    "modid": "moremcmeta_animation_plugin",
+    "name": "MoreMcmeta Animation Plugin",
+    "version": "1.20.1-1.0.2"
   },
   {
     "modid": "nochatreports",
@@ -125,9 +155,14 @@
     "version": "1.0.12"
   },
   {
+    "modid": "moremcmeta_json_parser_plugin",
+    "name": "MoreMcmeta JSON Parser Plugin",
+    "version": "1.20.1-1.1.0"
+  },
+  {
     "modid": "kotlinforforge",
     "name": "Kotlin For Forge",
-    "version": "4.4.0"
+    "version": "4.10.0"
   },
   {
     "modid": "notenoughanimations",
@@ -175,6 +210,11 @@
     "version": "1.6.2"
   },
   {
+    "modid": "moremcmeta_properties_parser_plugin",
+    "name": "MoreMcmeta Properties Parser Plugin",
+    "version": "1.20.1-1.1.4"
+  },
+  {
     "modid": "canary",
     "name": "Canary",
     "version": "0.2.10"
@@ -183,6 +223,11 @@
     "modid": "inventoryhud",
     "name": "Inventory HUD+(Forge edition)",
     "version": "3.4.18"
+  },
+  {
+    "modid": "inventoryprofilesnext",
+    "name": "Inventory Profiles Next",
+    "version": "1.10.9"
   },
   {
     "modid": "architectury",
@@ -208,6 +253,11 @@
     "modid": "lightoverlay",
     "name": "Light Overlay",
     "version": "8.0.0"
+  },
+  {
+    "modid": "moremcmeta_gui_plugin",
+    "name": "MoreMcmeta GUI Plugin",
+    "version": "1.20.1-1.0.0"
   },
   {
     "modid": "betterf3",
