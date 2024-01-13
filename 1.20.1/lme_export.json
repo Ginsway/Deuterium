@@ -12,7 +12,7 @@
   {
     "modid": "moremcmeta",
     "name": "MoreMcmeta",
-    "version": "1.20.1-4.4.5"
+    "version": "1.20.1-4.4.6"
   },
   {
     "modid": "moremcmeta_texture_plugin",
@@ -37,7 +37,7 @@
   {
     "modid": "modernfix",
     "name": "ModernFix",
-    "version": "5.11.1+mc1.20.1"
+    "version": "5.12.1+mc1.20.1"
   },
   {
     "modid": "jei",
@@ -52,7 +52,7 @@
   {
     "modid": "mixinextras",
     "name": "MixinExtras",
-    "version": "0.2.0"
+    "version": "0.3.2"
   },
   {
     "modid": "starlight",
@@ -98,11 +98,6 @@
     "modid": "rubidium",
     "name": "Rubidium (Embeddium)",
     "version": "0.7.1"
-  },
-  {
-    "modid": "embeddiumplus",
-    "name": "Embeddium++",
-    "version": "1.1.0"
   },
   {
     "modid": "minecraft",
@@ -166,8 +161,8 @@
   },
   {
     "modid": "notenoughanimations",
-    "name": "NotEnoughAnimations Mod",
-    "version": "1.6.4"
+    "name": "NotEnoughAnimations",
+    "version": "1.7.0"
   },
   {
     "modid": "iceberg",
@@ -217,7 +212,7 @@
   {
     "modid": "canary",
     "name": "Canary",
-    "version": "0.2.10"
+    "version": "0.3.1"
   },
   {
     "modid": "inventoryhud",
@@ -250,11 +245,6 @@
     "version": "6.1.4+1.20.1"
   },
   {
-    "modid": "lightoverlay",
-    "name": "Light Overlay",
-    "version": "8.0.0"
-  },
-  {
     "modid": "moremcmeta_gui_plugin",
     "name": "MoreMcmeta GUI Plugin",
     "version": "1.20.1-1.0.0"
@@ -283,6 +273,11 @@
     "modid": "reeses_sodium_options",
     "name": "TexTrue\u0027s Rubidium Options (TexTrue\u0027s Embeddium Options)",
     "version": "1.0.4"
+  },
+  {
+    "modid": "embeddiumplus",
+    "name": "Embeddium++",
+    "version": "1.2.2"
   },
   {
     "modid": "quit",
