@@ -87,7 +87,7 @@
   {
     "modid": "forge",
     "name": "Forge",
-    "version": "47.2.19"
+    "version": "47.2.20"
   },
   {
     "modid": "embeddium",
@@ -197,7 +197,7 @@
   {
     "modid": "jecharacters",
     "name": "Just Enough Characters",
-    "version": "4.5.4"
+    "version": "4.5.5"
   },
   {
     "modid": "entityculling",
@@ -212,7 +212,7 @@
   {
     "modid": "canary",
     "name": "Canary",
-    "version": "0.3.1"
+    "version": "0.3.2"
   },
   {
     "modid": "inventoryhud",
