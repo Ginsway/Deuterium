@@ -72,7 +72,7 @@
   {
     "modid": "jeresources",
     "name": "Just Enough Resources",
-    "version": "1.4.0.238"
+    "version": "1.4.0.247"
   },
   {
     "modid": "chat_heads",
@@ -250,6 +250,11 @@
     "version": "1.20.1-1.0.0"
   },
   {
+    "modid": "quitornot",
+    "name": "QuitOrNot",
+    "version": "1.0.1"
+  },
+  {
     "modid": "betterf3",
     "name": "BetterF3",
     "version": "7.0.2"
@@ -278,11 +283,6 @@
     "modid": "embeddiumplus",
     "name": "Embeddium++",
     "version": "1.2.2"
-  },
-  {
-    "modid": "quit",
-    "name": "Quit",
-    "version": "1.1.0"
   },
   {
     "modid": "deuf",
