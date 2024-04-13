@@ -7,17 +7,17 @@
   {
     "modid": "notenoughcrashes",
     "name": "Not Enough Crashes",
-    "version": "4.4.4+1.20.1"
+    "version": "4.4.7+1.20.1"
   },
   {
     "modid": "moremcmeta",
     "name": "MoreMcmeta",
-    "version": "1.20.1-4.4.6"
+    "version": "1.20.1-4.4.7"
   },
   {
     "modid": "moremcmeta_texture_plugin",
     "name": "MoreMcmeta Texture Plugin",
-    "version": "1.20.1-1.0.0"
+    "version": "1.20.1-1.0.1"
   },
   {
     "modid": "bettertitlescreen",
@@ -27,7 +27,7 @@
   {
     "modid": "xaeroworldmap",
     "name": "Xaero\u0027s World Map",
-    "version": "1.37.2"
+    "version": "1.38.3"
   },
   {
     "modid": "controlling",
@@ -37,22 +37,22 @@
   {
     "modid": "modernfix",
     "name": "ModernFix",
-    "version": "5.12.1+mc1.20.1"
+    "version": "5.15.0+mc1.20.1"
   },
   {
     "modid": "jei",
     "name": "Just Enough Items",
-    "version": "15.2.0.27"
+    "version": "15.3.0.4"
   },
   {
     "modid": "mcwifipnp",
     "name": "LAN World Plug-n-Play",
-    "version": "1.6.6"
+    "version": "1.6.9"
   },
   {
     "modid": "mixinextras",
     "name": "MixinExtras",
-    "version": "0.3.2"
+    "version": "0.3.5"
   },
   {
     "modid": "starlight",
@@ -65,11 +65,6 @@
     "version": "1.8.0"
   },
   {
-    "modid": "fpsreducer",
-    "name": "FPS Reducer",
-    "version": "1.20-2.5"
-  },
-  {
     "modid": "jeresources",
     "name": "Just Enough Resources",
     "version": "1.4.0.247"
@@ -77,22 +72,22 @@
   {
     "modid": "chat_heads",
     "name": "Chat Heads",
-    "version": "0.10.18"
+    "version": "0.10.32"
   },
   {
     "modid": "cloth_config",
     "name": "Cloth Config v10 API",
-    "version": "11.1.106"
+    "version": "11.1.118"
   },
   {
     "modid": "forge",
     "name": "Forge",
-    "version": "47.2.20"
+    "version": "47.2.23"
   },
   {
     "modid": "embeddium",
     "name": "Embeddium",
-    "version": "0.2.16+mc1.20.1"
+    "version": "0.3.12+mc1.20.1"
   },
   {
     "modid": "rubidium",
@@ -107,17 +102,17 @@
   {
     "modid": "entity_model_features",
     "name": "Entity Model Features",
-    "version": "1.2.1"
+    "version": "1.3"
   },
   {
     "modid": "entity_texture_features",
     "name": "Entity Texture Features",
-    "version": "5.1"
+    "version": "5.2.3"
   },
   {
     "modid": "libipn",
     "name": "libIPN",
-    "version": "4.0.1"
+    "version": "4.0.2"
   },
   {
     "modid": "mousetweaks",
@@ -132,7 +127,7 @@
   {
     "modid": "moremcmeta_animation_plugin",
     "name": "MoreMcmeta Animation Plugin",
-    "version": "1.20.1-1.0.2"
+    "version": "1.20.1-1.0.3"
   },
   {
     "modid": "nochatreports",
@@ -142,17 +137,17 @@
   {
     "modid": "jade",
     "name": "Jade",
-    "version": "11.7.1"
+    "version": "11.8.0"
   },
   {
     "modid": "justenoughbreeding",
     "name": "Just Enough Breeding",
-    "version": "1.0.12"
+    "version": "1.2.1"
   },
   {
     "modid": "moremcmeta_json_parser_plugin",
     "name": "MoreMcmeta JSON Parser Plugin",
-    "version": "1.20.1-1.1.0"
+    "version": "1.20.1-1.1.1"
   },
   {
     "modid": "kotlinforforge",
@@ -160,14 +155,9 @@
     "version": "4.10.0"
   },
   {
-    "modid": "notenoughanimations",
-    "name": "NotEnoughAnimations",
-    "version": "1.7.0"
-  },
-  {
     "modid": "iceberg",
     "name": "Iceberg",
-    "version": "1.1.18"
+    "version": "1.1.21"
   },
   {
     "modid": "flywheel",
@@ -177,12 +167,12 @@
   {
     "modid": "xaerominimap",
     "name": "Xaero\u0027s Minimap",
-    "version": "23.9.3"
+    "version": "24.1.0"
   },
   {
     "modid": "oculus",
     "name": "Oculus",
-    "version": "1.6.13"
+    "version": "1.6.15a"
   },
   {
     "modid": "searchables",
@@ -197,7 +187,7 @@
   {
     "modid": "jecharacters",
     "name": "Just Enough Characters",
-    "version": "4.5.5"
+    "version": "4.5.9"
   },
   {
     "modid": "entityculling",
@@ -207,12 +197,12 @@
   {
     "modid": "moremcmeta_properties_parser_plugin",
     "name": "MoreMcmeta Properties Parser Plugin",
-    "version": "1.20.1-1.1.4"
+    "version": "1.20.1-1.1.5"
   },
   {
     "modid": "canary",
     "name": "Canary",
-    "version": "0.3.2"
+    "version": "0.3.3"
   },
   {
     "modid": "inventoryhud",
@@ -222,12 +212,12 @@
   {
     "modid": "inventoryprofilesnext",
     "name": "Inventory Profiles Next",
-    "version": "1.10.9"
+    "version": "1.10.10"
   },
   {
     "modid": "architectury",
     "name": "Architectury",
-    "version": "9.1.10"
+    "version": "9.2.14"
   },
   {
     "modid": "appleskin",
@@ -237,17 +227,22 @@
   {
     "modid": "ferritecore",
     "name": "Ferrite Core",
-    "version": "6.0.0"
+    "version": "6.0.1"
+  },
+  {
+    "modid": "embeddium_extra",
+    "name": "Embeddium Extra",
+    "version": "0.5.4.2+mc1.20.1-build.118"
   },
   {
     "modid": "cherishedworlds",
     "name": "Cherished Worlds",
-    "version": "6.1.4+1.20.1"
+    "version": "6.1.6+1.20.1"
   },
   {
     "modid": "moremcmeta_gui_plugin",
     "name": "MoreMcmeta GUI Plugin",
-    "version": "1.20.1-1.0.0"
+    "version": "1.20.1-1.0.1"
   },
   {
     "modid": "quitornot",
@@ -260,11 +255,6 @@
     "version": "7.0.2"
   },
   {
-    "modid": "rubidium_extra",
-    "name": "Rubidium/Embeddium Extra",
-    "version": "0.5.3.1+mc1.20.1-build.110"
-  },
-  {
     "modid": "jadeaddons",
     "name": "Jade Addons",
     "version": "5.2.2"
@@ -272,7 +262,7 @@
   {
     "modid": "textrues_embeddium_options",
     "name": "TexTrue\u0027s Embeddium Options",
-    "version": "0.1.3+mc1.20.1"
+    "version": "0.1.5+mc1.20.1"
   },
   {
     "modid": "reeses_sodium_options",
@@ -282,7 +272,7 @@
   {
     "modid": "embeddiumplus",
     "name": "Embeddium++",
-    "version": "1.2.2"
+    "version": "1.2.7"
   },
   {
     "modid": "deuf",
