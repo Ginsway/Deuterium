@@ -1,6 +1,7 @@
 # 氘-Deuterium
 ![GitHub](https://img.shields.io/github/license/Ginsway/Deuterium)
-![GitHub all releases](https://img.shields.io/github/downloads/Ginsway/Deuterium/total)
+![GitHub all releases](https://img.shields.io/github/downloads/Ginsway/Deuterium/total?label=GitHub%20Downloads)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/nHps3us9?label=Modrinth%20Downloads)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Ginsway/Deuterium)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Ginsway/Deuterium?include_prereleases)
 
