@@ -1,138 +1,23 @@
 [
   {
-    "modid": "dynamiclightsreforged",
-    "name": "Rubidium Dynamic Lights",
-    "version": "1.18.2_v1.3.3"
-  },
-  {
-    "modid": "radium",
-    "name": "Radium",
-    "version": "0.7.10"
-  },
-  {
-    "modid": "notenoughcrashes",
-    "name": "Not Enough Crashes",
-    "version": "4.1.4+1.18.2"
-  },
-  {
-    "modid": "roughlyenoughprofessions",
-    "name": "Roughly Enough Professions",
-    "version": "1.0.1"
-  },
-  {
-    "modid": "forgeautofish",
-    "name": "AutoFish for Forge",
-    "version": "4.0.3"
-  },
-  {
-    "modid": "customskinloader",
-    "name": "CustomSkinLoader",
-    "version": "14.14-SNAPSHOT-323"
-  },
-  {
-    "modid": "rubidium",
-    "name": "Rubidium",
-    "version": "0.5.2a"
-  },
-  {
-    "modid": "fastsuite",
-    "name": "Fast Suite",
-    "version": "3.0.2"
-  },
-  {
-    "modid": "clumps",
-    "name": "Clumps",
-    "version": "8.0.0+8"
-  },
-  {
-    "modid": "xaeroworldmap",
-    "name": "Xaero\u0027s World Map",
-    "version": "1.23.2"
-  },
-  {
-    "modid": "controlling",
-    "name": "Controlling",
-    "version": "9.0+19"
-  },
-  {
-    "modid": "placebo",
-    "name": "Placebo",
-    "version": "6.4.0"
-  },
-  {
-    "modid": "i18nupdatemod",
-    "name": "I18n update Mod",
-    "version": "3.0.1"
-  },
-  {
-    "modid": "mcwifipnp",
-    "name": "LAN World Plug-n-Play",
-    "version": "1.5.6"
-  },
-  {
-    "modid": "configured",
-    "name": "Configured",
-    "version": "1.5.3"
-  },
-  {
-    "modid": "bookshelf",
-    "name": "Bookshelf",
-    "version": "13.2.21"
-  },
-  {
-    "modid": "lazydfu",
-    "name": "LazyDFU",
-    "version": "0.1.3"
-  },
-  {
-    "modid": "starlight",
-    "name": "Starlight",
-    "version": "1.0.2+forge.83663de"
-  },
-  {
-    "modid": "farsight_view",
-    "name": "Farsight mod",
-    "version": "1.18.2-1.9"
-  },
-  {
-    "modid": "catalogue",
-    "name": "Catalogue",
-    "version": "1.6.2"
-  },
-  {
-    "modid": "chat_heads",
-    "name": "Chat Heads",
-    "version": "0.6.0"
-  },
-  {
-    "modid": "rubidium_extras",
-    "name": "Rubidium Extras",
-    "version": "1.18.2_v1.3.1"
-  },
-  {
-    "modid": "cloth_config",
-    "name": "Cloth Config v4 API",
-    "version": "6.2.57"
-  },
-  {
-    "modid": "forge",
-    "name": "Forge",
-    "version": "40.1.51"
-  },
-  {
-    "modid": "betterpingdisplay",
-    "name": "Better Ping Display",
-    "version": "1.1"
-  },
-  {
     "modid": "minecraft",
     "name": "Minecraft",
     "version": "1.18.2"
   },
   {
-    "modid": "enchdesc",
-    "name": "EnchantmentDescriptions",
-    "version": "10.0.4"
+    "modid": "itlt",
+    "name": "It\u0027s The Little Things",
+    "version": "2.2.0"
+  },
+  {
+    "modid": "libipn",
+    "name": "libIPN",
+    "version": "4.0.2"
+  },
+  {
+    "modid": "notenoughcrashes",
+    "name": "Not Enough Crashes",
+    "version": "4.2.0+1.18.2"
   },
   {
     "modid": "mousetweaks",
@@ -142,112 +27,147 @@
   {
     "modid": "jade",
     "name": "Jade",
-    "version": "5.2.1"
+    "version": "5.3.2"
   },
   {
     "modid": "waila",
     "name": "Waila (Jade)",
-    "version": "5.2.1"
+    "version": "5.3.2"
   },
   {
-    "modid": "roughlyenoughitems",
-    "name": "Roughly Enough Items (REI)",
-    "version": "8.2.463"
+    "modid": "caffeineconfig",
+    "name": "ColaConfig",
+    "version": "1.0.2"
+  },
+  {
+    "modid": "customskinloader",
+    "name": "CustomSkinLoader",
+    "version": "14.14-SNAPSHOT-346"
   },
   {
     "modid": "jei",
-    "name": "Roughly Enough Items (JEI Stub)",
-    "version": "9.9999"
+    "name": "Just Enough Items",
+    "version": "10.2.1.1006"
   },
   {
-    "modid": "betterfpsdist",
-    "name": "betterfpsdist mod",
-    "version": "1.18.2-1.5"
+    "modid": "reeses_sodium_options",
+    "name": "TexTrue\u0027s Rubidium Options",
+    "version": "1.0.8-mc1.18.2"
+  },
+  {
+    "modid": "kotlinforforge",
+    "name": "Kotlin For Forge",
+    "version": "3.12.0"
+  },
+  {
+    "modid": "rubidium",
+    "name": "Rubidium",
+    "version": "0.5.6"
   },
   {
     "modid": "notenoughanimations",
-    "name": "NotEnoughAnimations Mod",
-    "version": "1.6.0"
+    "name": "NotEnoughAnimations",
+    "version": "1.7.4"
+  },
+  {
+    "modid": "iceberg",
+    "name": "Iceberg",
+    "version": "1.0.49"
   },
   {
     "modid": "xaerominimap",
     "name": "Xaero\u0027s Minimap",
-    "version": "22.9.2"
+    "version": "24.2.0"
   },
   {
     "modid": "oculus",
     "name": "Oculus",
-    "version": "1.2.5"
+    "version": "1.6.4"
   },
   {
-    "modid": "fastbench",
-    "name": "Fast Workbench",
-    "version": "6.0.2"
+    "modid": "shulkertooltip",
+    "name": "Shulker Tooltip",
+    "version": "1.11"
+  },
+  {
+    "modid": "sodiumextra",
+    "name": "Rubidium Extra",
+    "version": "0.4.18+mc1.18.2-build.86"
+  },
+  {
+    "modid": "bettertitlescreen",
+    "name": "Better Title Screen",
+    "version": "1.18-1.12.0"
+  },
+  {
+    "modid": "xaeroworldmap",
+    "name": "Xaero\u0027s World Map",
+    "version": "1.38.8"
+  },
+  {
+    "modid": "controlling",
+    "name": "Controlling",
+    "version": "9.0+23"
+  },
+  {
+    "modid": "justenoughprofessions",
+    "name": "Just Enough Professions (JEP)",
+    "version": "1.3.0"
+  },
+  {
+    "modid": "mcwifipnp",
+    "name": "LAN World Plug-n-Play",
+    "version": "1.6.8"
+  },
+  {
+    "modid": "configured",
+    "name": "Configured",
+    "version": "2.0.1"
+  },
+  {
+    "modid": "jecharacters",
+    "name": "Just Enough Characters",
+    "version": "4.5.9"
   },
   {
     "modid": "entityculling",
     "name": "EntityCulling",
-    "version": "1.5.1"
+    "version": "1.6.1"
   },
   {
     "modid": "inventoryhud",
     "name": "Inventory HUD+(Forge edition)",
-    "version": "3.4.4"
+    "version": "3.4.22"
   },
   {
-    "modid": "ftbultimine",
-    "name": "FTB Ultimine",
-    "version": "1802.3.3-build.55"
-  },
-  {
-    "modid": "worldedit",
-    "name": "WorldEdit",
-    "version": "7.2.10+1742f98"
-  },
-  {
-    "modid": "fastfurnace",
-    "name": "FastFurnace",
-    "version": "6.0.3"
+    "modid": "lazydfu",
+    "name": "LazyDFU",
+    "version": "0.1.3"
   },
   {
     "modid": "inventoryprofilesnext",
     "name": "Inventory Profiles Next",
-    "version": "1.5.2"
+    "version": "1.10.10"
+  },
+  {
+    "modid": "starlight",
+    "name": "Starlight",
+    "version": "1.0.2+forge.83663de"
   },
   {
     "modid": "architectury",
     "name": "Architectury",
-    "version": "4.4.61"
-  },
-  {
-    "modid": "ftblibrary",
-    "name": "FTB Library",
-    "version": "1802.3.6-build.123"
-  },
-  {
-    "modid": "roughlyenoughresources",
-    "name": "Roughly Enough Resources",
-    "version": "2.5.1"
-  },
-  {
-    "modid": "appleskin",
-    "name": "AppleSkin",
-    "version": "2.4.0+mc1.18"
+    "version": "4.12.94"
   },
   {
     "modid": "ferritecore",
     "name": "Ferrite Core",
-    "version": "0.0NONE"
+    "version": "4.2.2"
   },
   {
-    "modid": "cherishedworlds",
-    "name": "Cherished Worlds",
-    "version": "1.18-5.1.1.0"
-  },
-  {
-    "modid": "modernui",
-    "name": "Modern UI",
-    "version": "3.4.6.107"
+    "modid": "catalogue",
+    "name": "Catalogue",
+    "version": "1.6.2"
   },
   {
     "modid": "lightoverlay",
@@ -257,26 +177,66 @@
   {
     "modid": "betterf3",
     "name": "BetterF3",
-    "version": "1.2.5"
+    "version": "3.0.0"
   },
   {
-    "modid": "jadeaddons",
-    "name": "Jade Addons",
-    "version": "2.0.0"
+    "modid": "fpsreducer",
+    "name": "FPS Reducer",
+    "version": "1.18.2-2.0"
+  },
+  {
+    "modid": "jeresources",
+    "name": "Just Enough Resources",
+    "version": "0.14.2.206"
+  },
+  {
+    "modid": "chat_heads",
+    "name": "Chat Heads",
+    "version": "0.6.1"
+  },
+  {
+    "modid": "cloth_config",
+    "name": "Cloth Config v4 API",
+    "version": "6.5.116"
+  },
+  {
+    "modid": "forge",
+    "name": "Forge",
+    "version": "40.2.21"
+  },
+  {
+    "modid": "appleskin",
+    "name": "AppleSkin",
+    "version": "2.5.1+mc1.18.2"
+  },
+  {
+    "modid": "detailab",
+    "name": "Detail Armor Bar",
+    "version": "2.6.2+1.18.2-forge"
   },
   {
     "modid": "gamemenumodoption",
     "name": "Game Menu Mod Option",
-    "version": "1.14"
+    "version": "1.14.2"
+  },
+  {
+    "modid": "quit",
+    "name": "Quit",
+    "version": "1.0.1"
   },
   {
     "modid": "imblocker",
     "name": "IMBlocker",
-    "version": "3.0"
+    "version": "4.0.5"
+  },
+  {
+    "modid": "deuf",
+    "name": "DEUF - Duplicate Entity UUID Fix",
+    "version": "1.18.2-1.3"
   },
   {
     "modid": "betteradvancements",
     "name": "Better Advancements",
-    "version": "0.2.0.129"
+    "version": "0.1.2.125"
   }
 ]
