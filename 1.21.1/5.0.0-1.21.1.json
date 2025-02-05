@@ -1,0 +1,352 @@
+[
+  {
+    "modid": "fabric_transfer_api_v1",
+    "name": "Forgified Fabric Transfer API (v1)",
+    "version": "5.4.1+d719f32719"
+  },
+  {
+    "modid": "fabric_renderer_api_v1",
+    "name": "Forgified Fabric Renderer API (v1)",
+    "version": "3.4.0+acb05a3919"
+  },
+  {
+    "modid": "sodium_extra",
+    "name": "Sodium Extra",
+    "version": "0.6.0+mc1.21.1"
+  },
+  {
+    "modid": "fabric_item_api_v1",
+    "name": "Forgified Fabric Item API (v1)",
+    "version": "11.1.1+57cdfa8219"
+  },
+  {
+    "modid": "fabric_model_loading_api_v1",
+    "name": "Forgified Fabric Model Loading API (v1)",
+    "version": "2.0.0+a6e994cd19"
+  },
+  {
+    "modid": "jei",
+    "name": "Just Enough Items",
+    "version": "19.21.0.247"
+  },
+  {
+    "modid": "fabric_rendering_fluids_v1",
+    "name": "Forgified Fabric Rendering Fluids (v1)",
+    "version": "3.1.6+857185bc19"
+  },
+  {
+    "modid": "fabric_screen_handler_api_v1",
+    "name": "Forgified Fabric Screen Handler API (v1)",
+    "version": "1.3.87+8dbc56dd19"
+  },
+  {
+    "modid": "fabric_resource_loader_v0",
+    "name": "Forgified Fabric Resource Loader (v0)",
+    "version": "1.3.1+4ea8954419"
+  },
+  {
+    "modid": "fabric_rendering_v1",
+    "name": "Forgified Fabric Rendering (v1)",
+    "version": "5.0.5+077ba95f19"
+  },
+  {
+    "modid": "fabric_renderer_indigo",
+    "name": "Forgified Fabric Renderer - Indigo",
+    "version": "1.7.0+acb05a3919"
+  },
+  {
+    "modid": "bettertitlescreen",
+    "name": "BetterTitleScreen",
+    "version": "1.14.0"
+  },
+  {
+    "modid": "fabric_convention_tags_v1",
+    "name": "Forgified Fabric Convention Tags",
+    "version": "2.1.1+7f945d5b19"
+  },
+  {
+    "modid": "xaeroworldmap",
+    "name": "Xaero\u0027s World Map",
+    "version": "1.39.2"
+  },
+  {
+    "modid": "neoforge",
+    "name": "NeoForge",
+    "version": "21.1.115"
+  },
+  {
+    "modid": "fabric_command_api_v2",
+    "name": "Forgified Fabric Command API (v2)",
+    "version": "2.2.28+36d727be19"
+  },
+  {
+    "modid": "fabric_convention_tags_v2",
+    "name": "Forgified Fabric Convention Tags (v2)",
+    "version": "2.9.1+231468e519"
+  },
+  {
+    "modid": "fabric_block_view_api_v2",
+    "name": "Forgified Fabric BlockView API (v2)",
+    "version": "1.0.10+9afaaf8c19"
+  },
+  {
+    "modid": "configured",
+    "name": "Configured",
+    "version": "2.6.0"
+  },
+  {
+    "modid": "fabric_data_attachment_api_v1",
+    "name": "Forgified Fabric Data Attachment API (v1)",
+    "version": "1.2.0+7330bc1b19"
+  },
+  {
+    "modid": "iris",
+    "name": "Iris",
+    "version": "1.8.6+mc1.21.1"
+  },
+  {
+    "modid": "catalogue",
+    "name": "Catalogue",
+    "version": "1.11.0"
+  },
+  {
+    "modid": "fabric_screen_api_v1",
+    "name": "Forgified Fabric Screen API (v1)",
+    "version": "2.0.25+b282c4bb19"
+  },
+  {
+    "modid": "sodium",
+    "name": "Sodium",
+    "version": "0.6.5+mc1.21.1"
+  },
+  {
+    "modid": "fabric_particles_v1",
+    "name": "Forgified Fabric Particles (v1)",
+    "version": "4.0.2+824f924c19"
+  },
+  {
+    "modid": "connector",
+    "name": "Sinytra Connector",
+    "version": "2.0.0-beta.6+1.21.1"
+  },
+  {
+    "modid": "cloth_config",
+    "name": "Cloth Config v15 API",
+    "version": "15.0.140"
+  },
+  {
+    "modid": "fzzy_config",
+    "name": "Fzzy Config",
+    "version": "0.6.4+1.21+neoforge"
+  },
+  {
+    "modid": "fabric_api",
+    "name": "Forgified Fabric API",
+    "version": "0.107.0+2.0.23+1.21.1"
+  },
+  {
+    "modid": "fabric_content_registries_v0",
+    "name": "Forgified Fabric Content Registries (v0)",
+    "version": "8.0.17+0a0c14ff19"
+  },
+  {
+    "modid": "fabric_transitive_access_wideners_v1",
+    "name": "Forgified Fabric Transitive Access Wideners (v1)",
+    "version": "6.1.0+0df3143b19"
+  },
+  {
+    "modid": "emi",
+    "name": "EMI",
+    "version": "1.1.19+1.21.1+neoforge"
+  },
+  {
+    "modid": "emi_loot",
+    "name": "EMI Loot",
+    "version": "0.7.5+1.21+neoforge"
+  },
+  {
+    "modid": "minecraft",
+    "name": "Minecraft",
+    "version": "1.21.1"
+  },
+  {
+    "modid": "libipn",
+    "name": "libIPN",
+    "version": "6.2.1"
+  },
+  {
+    "modid": "fabric_game_rule_api_v1",
+    "name": "Forgified Fabric Game Rule API (v1)",
+    "version": "1.0.53+36d727be19"
+  },
+  {
+    "modid": "fabric_api_base",
+    "name": "Forgified Fabric API Base",
+    "version": "0.4.42+d1308ded19"
+  },
+  {
+    "modid": "fabric_api_lookup_api_v1",
+    "name": "Forgified Fabric API Lookup API (v1)",
+    "version": "1.6.69+c21168c319"
+  },
+  {
+    "modid": "fabric_blockrenderlayer_v1",
+    "name": "Forgified Fabric BlockRenderLayer Registration (v1)",
+    "version": "1.1.52+b089b4bd19"
+  },
+  {
+    "modid": "jade",
+    "name": "Jade",
+    "version": "15.9.3+neoforge"
+  },
+  {
+    "modid": "fabric_block_api_v1",
+    "name": "Forgified Fabric Block API (v1)",
+    "version": "1.0.22+a6e994cd19"
+  },
+  {
+    "modid": "fabric_resource_conditions_api_v1",
+    "name": "Forgified Fabric Resource Conditions API (v1)",
+    "version": "4.3.0+edeecbd819"
+  },
+  {
+    "modid": "reeses_sodium_options",
+    "name": "Reese\u0027s Sodium Options",
+    "version": "1.8.3+mc1.21.4"
+  },
+  {
+    "modid": "kotlinforforge",
+    "name": "Kotlin For Forge",
+    "version": "5.7.0"
+  },
+  {
+    "modid": "xaerominimap",
+    "name": "Xaero\u0027s Minimap",
+    "version": "25.0.0"
+  },
+  {
+    "modid": "fabric_item_group_api_v1",
+    "name": "Forgified Fabric Item Group API (v1)",
+    "version": "4.1.6+e324903319"
+  },
+  {
+    "modid": "fabric_gametest_api_v1",
+    "name": "Forgified Fabric Game Test API (v1)",
+    "version": "2.0.5+29f188ce19"
+  },
+  {
+    "modid": "jecharacters",
+    "name": "Just Enough Characters",
+    "version": "4.5.15"
+  },
+  {
+    "modid": "inventoryhud",
+    "name": "Inventory HUD+",
+    "version": "3.4.26"
+  },
+  {
+    "modid": "fabric_biome_api_v1",
+    "name": "Forgified Fabric Biome API (v1)",
+    "version": "13.0.30+1e62d33c19"
+  },
+  {
+    "modid": "fabric_entity_events_v1",
+    "name": "Forgified Fabric Entity Events (v1)",
+    "version": "1.7.0+1af6e62419"
+  },
+  {
+    "modid": "fabric_registry_sync_v0",
+    "name": "Forgified Fabric Registry Sync (v0)",
+    "version": "5.1.3+0c9b5b5419"
+  },
+  {
+    "modid": "continuity",
+    "name": "Continuity",
+    "version": "3.0.01.21.neoforge"
+  },
+  {
+    "modid": "inventoryprofilesnext",
+    "name": "Inventory Profiles Next",
+    "version": "2.1.2"
+  },
+  {
+    "modid": "appleskin",
+    "name": "AppleSkin",
+    "version": "3.0.5+mc1.21"
+  },
+  {
+    "modid": "fabric_recipe_api_v1",
+    "name": "Forgified Fabric Recipe API (v1)",
+    "version": "5.0.13+59440bcc19"
+  },
+  {
+    "modid": "fabric_object_builder_api_v1",
+    "name": "Forgified Fabric Object Builder API (v1)",
+    "version": "15.2.1+cc242efd19"
+  },
+  {
+    "modid": "fabric_loot_api_v2",
+    "name": "Forgified Fabric Loot API (v2)",
+    "version": "3.0.15+a3ee712d19"
+  },
+  {
+    "modid": "fabric_loot_api_v3",
+    "name": "Forgified Fabric Loot API (v3)",
+    "version": "1.0.3+333dfad919"
+  },
+  {
+    "modid": "fabric_rendering_data_attachment_v1",
+    "name": "Forgified Fabric Rendering Data Attachment (v1)",
+    "version": "0.3.48+73761d2e19"
+  },
+  {
+    "modid": "fabric_networking_api_v1",
+    "name": "Forgified Fabric Networking API (v1)",
+    "version": "4.3.0+0d25d43e19"
+  },
+  {
+    "modid": "fabric_sound_api_v1",
+    "name": "Forgified Fabric Sound API (v1)",
+    "version": "1.0.23+10b84f8419"
+  },
+  {
+    "modid": "emi_ores",
+    "name": "EMI Ores",
+    "version": "1.2+1.21.1+neoforge"
+  },
+  {
+    "modid": "fabric_message_api_v1",
+    "name": "Forgified Fabric Message API (v1)",
+    "version": "6.0.13+e053909619"
+  },
+  {
+    "modid": "fabric_lifecycle_events_v1",
+    "name": "Forgified Fabric Lifecycle Events (v1)",
+    "version": "2.4.0+36b6b86a19"
+  },
+  {
+    "modid": "fabric_data_generation_api_v1",
+    "name": "Forgified Fabric Data Generation API (v1)",
+    "version": "20.2.22+2d91a6db19"
+  },
+  {
+    "modid": "fabric_events_interaction_v0",
+    "name": "Forgified Fabric Events Interaction (v0)",
+    "version": "0.7.13+7b71cc1619"
+  },
+  {
+    "modid": "fabric_key_binding_api_v1",
+    "name": "Forgified Fabric Key Binding API (v1)",
+    "version": "1.0.47+62cc7ce119"
+  },
+  {
+    "modid": "betteradvancements",
+    "name": "Better Advancements",
+    "version": "0.4.3.21"
+  },
+  {
+    "modid": "fabric_client_tags_api_v1",
+    "name": "Forgified Fabric Client Tags",
+    "version": "1.1.15+e053909619"
+  }
+]
