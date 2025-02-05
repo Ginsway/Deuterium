@@ -1,0 +1,277 @@
+[
+  {
+    "modid": "moremcmeta_emissive_plugin",
+    "name": "MoreMcmeta Emissive Textures Plugin",
+    "version": "1.20.1-2.0.4"
+  },
+  {
+    "modid": "notenoughcrashes",
+    "name": "Not Enough Crashes",
+    "version": "4.4.7+1.20.1"
+  },
+  {
+    "modid": "moremcmeta",
+    "name": "MoreMcmeta",
+    "version": "1.20.1-4.5.2"
+  },
+  {
+    "modid": "moremcmeta_texture_plugin",
+    "name": "MoreMcmeta Texture Plugin",
+    "version": "1.20.1-1.0.1"
+  },
+  {
+    "modid": "bettertitlescreen",
+    "name": "Better Title Screen",
+    "version": "1.13.2"
+  },
+  {
+    "modid": "xaeroworldmap",
+    "name": "Xaero\u0027s World Map",
+    "version": "1.39.2"
+  },
+  {
+    "modid": "controlling",
+    "name": "Controlling",
+    "version": "12.0.2"
+  },
+  {
+    "modid": "modernfix",
+    "name": "ModernFix",
+    "version": "5.20.2+mc1.20.1"
+  },
+  {
+    "modid": "jei",
+    "name": "Just Enough Items",
+    "version": "15.20.0.106"
+  },
+  {
+    "modid": "mcwifipnp",
+    "name": "LAN World Plug-n-Play",
+    "version": "1.7.3"
+  },
+  {
+    "modid": "mixinextras",
+    "name": "MixinExtras",
+    "version": "0.4.1"
+  },
+  {
+    "modid": "starlight",
+    "name": "Starlight",
+    "version": "1.1.2+forge.1cda73c"
+  },
+  {
+    "modid": "catalogue",
+    "name": "Catalogue",
+    "version": "1.8.0"
+  },
+  {
+    "modid": "jeresources",
+    "name": "Just Enough Resources",
+    "version": "1.4.0.247"
+  },
+  {
+    "modid": "chat_heads",
+    "name": "Chat Heads",
+    "version": "0.13.12"
+  },
+  {
+    "modid": "cloth_config",
+    "name": "Cloth Config v10 API",
+    "version": "11.1.136"
+  },
+  {
+    "modid": "forge",
+    "name": "Forge",
+    "version": "47.3.27"
+  },
+  {
+    "modid": "embeddium",
+    "name": "Embeddium",
+    "version": "0.3.31+mc1.20.1"
+  },
+  {
+    "modid": "rubidium",
+    "name": "Rubidium (Embeddium)",
+    "version": "0.7.1"
+  },
+  {
+    "modid": "embeddiumplus",
+    "name": "Embeddium++",
+    "version": "1.2.13"
+  },
+  {
+    "modid": "minecraft",
+    "name": "Minecraft",
+    "version": "1.20.1"
+  },
+  {
+    "modid": "entity_model_features",
+    "name": "Entity Model Features",
+    "version": "2.4.1"
+  },
+  {
+    "modid": "entity_texture_features",
+    "name": "Entity Texture Features",
+    "version": "6.2.9"
+  },
+  {
+    "modid": "libipn",
+    "name": "libIPN",
+    "version": "4.0.2"
+  },
+  {
+    "modid": "mousetweaks",
+    "name": "Mouse Tweaks",
+    "version": "2.25.1"
+  },
+  {
+    "modid": "forgeconfigscreens",
+    "name": "Forge Config Screens",
+    "version": "8.0.2"
+  },
+  {
+    "modid": "moremcmeta_animation_plugin",
+    "name": "MoreMcmeta Animation Plugin",
+    "version": "1.20.1-1.0.3"
+  },
+  {
+    "modid": "nochatreports",
+    "name": "No Chat Reports",
+    "version": "1.20.1-v2.2.2"
+  },
+  {
+    "modid": "jade",
+    "name": "Jade",
+    "version": "11.12.3+forge"
+  },
+  {
+    "modid": "justenoughbreeding",
+    "name": "Just Enough Breeding",
+    "version": "1.5.0"
+  },
+  {
+    "modid": "moremcmeta_json_parser_plugin",
+    "name": "MoreMcmeta JSON Parser Plugin",
+    "version": "1.20.1-1.1.1"
+  },
+  {
+    "modid": "kotlinforforge",
+    "name": "Kotlin For Forge",
+    "version": "4.10.0"
+  },
+  {
+    "modid": "iceberg",
+    "name": "Iceberg",
+    "version": "1.1.25"
+  },
+  {
+    "modid": "flywheel",
+    "name": "Flywheel",
+    "version": "0.6.10-8"
+  },
+  {
+    "modid": "xaerominimap",
+    "name": "Xaero\u0027s Minimap",
+    "version": "25.0.0"
+  },
+  {
+    "modid": "oculus",
+    "name": "Oculus",
+    "version": "1.8.0"
+  },
+  {
+    "modid": "searchables",
+    "name": "Searchables",
+    "version": "1.0.3"
+  },
+  {
+    "modid": "justenoughprofessions",
+    "name": "Just Enough Professions (JEP)",
+    "version": "3.0.1"
+  },
+  {
+    "modid": "jecharacters",
+    "name": "Just Enough Characters",
+    "version": "4.5.11"
+  },
+  {
+    "modid": "entityculling",
+    "name": "EntityCulling",
+    "version": "1.7.2"
+  },
+  {
+    "modid": "moremcmeta_properties_parser_plugin",
+    "name": "MoreMcmeta Properties Parser Plugin",
+    "version": "1.20.1-1.1.5"
+  },
+  {
+    "modid": "canary",
+    "name": "Canary",
+    "version": "0.3.3"
+  },
+  {
+    "modid": "inventoryhud",
+    "name": "Inventory HUD+",
+    "version": "3.4.26"
+  },
+  {
+    "modid": "inventoryprofilesnext",
+    "name": "Inventory Profiles Next",
+    "version": "1.10.14"
+  },
+  {
+    "modid": "architectury",
+    "name": "Architectury",
+    "version": "9.2.14"
+  },
+  {
+    "modid": "appleskin",
+    "name": "AppleSkin",
+    "version": "2.5.1+mc1.20.1"
+  },
+  {
+    "modid": "ferritecore",
+    "name": "Ferrite Core",
+    "version": "6.0.1"
+  },
+  {
+    "modid": "embeddium_extra",
+    "name": "Embeddium Extra",
+    "version": "0.5.4.4+mc1.20.1-build.131"
+  },
+  {
+    "modid": "cherishedworlds",
+    "name": "Cherished Worlds",
+    "version": "6.1.7+1.20.1"
+  },
+  {
+    "modid": "moremcmeta_gui_plugin",
+    "name": "MoreMcmeta GUI Plugin",
+    "version": "1.20.1-1.0.1"
+  },
+  {
+    "modid": "quitornot",
+    "name": "QuitOrNot",
+    "version": "1.0.1"
+  },
+  {
+    "modid": "betterf3",
+    "name": "BetterF3",
+    "version": "7.0.2"
+  },
+  {
+    "modid": "jadeaddons",
+    "name": "Jade Addons",
+    "version": "5.3.1+forge"
+  },
+  {
+    "modid": "deuf",
+    "name": "DEUF - Duplicate Entity UUID Fix",
+    "version": "1.20.1-1.3"
+  },
+  {
+    "modid": "betteradvancements",
+    "name": "Better Advancements",
+    "version": "0.4.2.25"
+  }
+]
